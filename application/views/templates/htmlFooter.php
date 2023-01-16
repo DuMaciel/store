@@ -5,9 +5,6 @@
 <script src="<?= base_url("public/lib/easing/easing.min.js") ?>"></script>
 <script src="<?= base_url("public/lib/owlcarousel/owl.carousel.min.js") ?>"></script>
 
-<!-- Contact Javascript File -->
-<script src="<?= base_url("public/mail/jqBootstrapValidation.min.js") ?>"></script>
-<script src="<?= base_url("public/mail/contact.js") ?>"></script>
 
 <!-- Template Javascript -->
 <script src="<?= base_url("public/js/main.js") ?>"></script>
